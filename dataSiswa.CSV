@@ -1,0 +1,1001 @@
+,Usia,Gender,Jurusan,Asal Sekolah,Semester,Kelas,Mata Pelajaran,Absen,kkm,Kategori
+0,18,P,BI,SMP3,1,12,MTK,Hadir,78,Beasiswa
+1,20,P,BI,SMP2,1,10,Bahasa Inggris,Izin,76,Non Beasiswa
+2,21,L,IPA,SMP3,1,11,MTK,Izin,79,Non Beasiswa
+3,18,L,IPS,SMP2,1,12,MTK,Hadir,78,Non Beasiswa
+4,19,P,IPA,SMP2,1,12,Bahasa Indonesia,Alfa,76,Non Beasiswa
+5,20,L,IPA,SMP2,1,10,Bahasa Indonesia,Sakit,75,Non Beasiswa
+6,21,P,IPS,SMP3,1,12,MTK,Izin,79,Beasiswa
+7,22,P,IPS,SMP3,1,12,Bahasa Indonesia,Hadir,77,Beasiswa
+8,21,L,BI,SMP3,1,12,Bahasa Inggris,Sakit,75,Beasiswa
+9,19,L,BI,SMP2,1,10,MTK,Hadir,79,Non Beasiswa
+10,22,L,BI,SMP2,1,10,MTK,Sakit,79,Beasiswa
+11,19,P,BI,SMP2,1,11,MTK,Alfa,78,Beasiswa
+12,21,L,IPS,SMP3,1,10,Bahasa Inggris,Izin,76,Non Beasiswa
+13,18,L,IPA,SMP2,1,11,Bahasa Inggris,Hadir,79,Beasiswa
+14,20,P,BI,SMP2,1,10,Bahasa Inggris,Alfa,79,Non Beasiswa
+15,18,L,IPS,SMP3,1,11,Bahasa Indonesia,Sakit,75,Non Beasiswa
+16,21,P,IPA,SMP1,1,12,MTK,Sakit,77,Beasiswa
+17,19,P,IPA,SMP2,1,11,Bahasa Indonesia,Hadir,75,Beasiswa
+18,21,P,IPA,SMP2,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+19,20,L,IPS,SMP2,1,10,MTK,Alfa,79,Non Beasiswa
+20,21,P,BI,SMP2,1,11,Bahasa Indonesia,Alfa,75,Non Beasiswa
+21,18,P,IPA,SMP1,1,11,Bahasa Inggris,Sakit,77,Non Beasiswa
+22,20,L,BI,SMP1,1,11,MTK,Izin,77,Non Beasiswa
+23,20,P,BI,SMP1,1,10,Bahasa Indonesia,Alfa,78,Beasiswa
+24,22,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,78,Beasiswa
+25,18,P,IPS,SMP1,1,12,MTK,Izin,78,Beasiswa
+26,19,P,IPA,SMP2,1,10,MTK,Izin,78,Non Beasiswa
+27,18,L,BI,SMP1,1,10,Bahasa Indonesia,Alfa,76,Non Beasiswa
+28,18,L,IPS,SMP2,1,12,MTK,Sakit,77,Non Beasiswa
+29,19,P,IPS,SMP3,1,10,MTK,Izin,77,Non Beasiswa
+30,18,P,IPS,SMP1,1,11,Bahasa Inggris,Alfa,76,Beasiswa
+31,18,L,IPS,SMP1,1,12,MTK,Sakit,79,Non Beasiswa
+32,22,L,IPA,SMP3,1,11,Bahasa Inggris,Sakit,75,Beasiswa
+33,18,L,BI,SMP1,1,11,Bahasa Indonesia,Izin,78,Beasiswa
+34,18,P,BI,SMP2,1,10,Bahasa Inggris,Izin,75,Non Beasiswa
+35,19,L,BI,SMP2,1,11,Bahasa Indonesia,Hadir,76,Beasiswa
+36,20,P,BI,SMP2,1,12,Bahasa Indonesia,Sakit,78,Non Beasiswa
+37,22,P,IPA,SMP3,1,10,Bahasa Indonesia,Sakit,77,Non Beasiswa
+38,22,L,BI,SMP2,1,12,MTK,Sakit,79,Beasiswa
+39,20,L,BI,SMP3,1,11,MTK,Izin,77,Non Beasiswa
+40,18,P,BI,SMP1,1,12,Bahasa Indonesia,Sakit,78,Beasiswa
+41,21,P,IPA,SMP1,1,12,MTK,Alfa,76,Non Beasiswa
+42,21,P,IPS,SMP3,1,12,Bahasa Inggris,Alfa,75,Beasiswa
+43,18,L,IPA,SMP1,1,12,Bahasa Indonesia,Hadir,76,Beasiswa
+44,18,L,IPS,SMP3,1,10,MTK,Izin,79,Beasiswa
+45,19,L,IPS,SMP1,1,12,Bahasa Indonesia,Alfa,78,Non Beasiswa
+46,18,L,IPS,SMP1,1,11,MTK,Alfa,79,Non Beasiswa
+47,18,P,IPS,SMP1,1,12,MTK,Alfa,77,Beasiswa
+48,19,L,IPS,SMP1,1,10,Bahasa Inggris,Alfa,77,Non Beasiswa
+49,21,L,IPA,SMP3,1,12,MTK,Izin,76,Beasiswa
+50,18,L,IPA,SMP2,1,10,MTK,Izin,78,Beasiswa
+51,22,L,IPS,SMP3,1,10,Bahasa Indonesia,Hadir,77,Beasiswa
+52,18,L,BI,SMP1,1,10,Bahasa Inggris,Izin,76,Non Beasiswa
+53,18,L,IPS,SMP1,1,12,MTK,Sakit,77,Non Beasiswa
+54,22,P,BI,SMP3,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+55,19,P,BI,SMP1,1,11,Bahasa Inggris,Hadir,77,Non Beasiswa
+56,20,P,IPA,SMP2,1,12,Bahasa Indonesia,Izin,77,Non Beasiswa
+57,22,P,BI,SMP1,1,10,Bahasa Inggris,Alfa,77,Non Beasiswa
+58,20,P,IPA,SMP3,1,12,Bahasa Inggris,Sakit,76,Non Beasiswa
+59,21,P,BI,SMP3,1,12,Bahasa Indonesia,Alfa,78,Beasiswa
+60,19,L,IPS,SMP1,1,10,Bahasa Inggris,Hadir,77,Non Beasiswa
+61,22,P,IPA,SMP1,1,12,Bahasa Indonesia,Hadir,79,Beasiswa
+62,20,L,BI,SMP1,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+63,18,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,76,Non Beasiswa
+64,18,P,IPS,SMP2,1,12,Bahasa Inggris,Izin,76,Beasiswa
+65,19,L,IPA,SMP2,1,10,MTK,Alfa,77,Non Beasiswa
+66,18,P,IPS,SMP1,1,10,MTK,Sakit,77,Beasiswa
+67,20,L,IPS,SMP3,1,10,Bahasa Indonesia,Sakit,75,Beasiswa
+68,22,P,IPA,SMP2,1,11,Bahasa Indonesia,Hadir,75,Non Beasiswa
+69,18,L,IPS,SMP1,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+70,18,L,BI,SMP3,1,11,MTK,Sakit,75,Beasiswa
+71,21,P,IPS,SMP2,1,10,Bahasa Indonesia,Alfa,79,Non Beasiswa
+72,21,P,IPA,SMP1,1,11,Bahasa Indonesia,Izin,76,Beasiswa
+73,21,L,IPA,SMP3,1,11,Bahasa Indonesia,Sakit,76,Non Beasiswa
+74,19,L,IPA,SMP1,1,11,MTK,Hadir,79,Non Beasiswa
+75,18,P,BI,SMP2,1,11,MTK,Sakit,76,Beasiswa
+76,20,P,BI,SMP3,1,12,MTK,Alfa,78,Non Beasiswa
+77,22,L,IPA,SMP1,1,12,Bahasa Inggris,Izin,77,Non Beasiswa
+78,21,P,IPS,SMP2,1,10,Bahasa Indonesia,Izin,79,Non Beasiswa
+79,18,L,IPA,SMP3,1,12,Bahasa Inggris,Izin,78,Beasiswa
+80,18,P,IPS,SMP2,1,11,Bahasa Inggris,Izin,77,Non Beasiswa
+81,20,P,BI,SMP3,1,10,Bahasa Indonesia,Izin,79,Beasiswa
+82,19,L,IPS,SMP1,1,12,Bahasa Inggris,Izin,76,Beasiswa
+83,18,P,BI,SMP3,1,11,Bahasa Inggris,Hadir,76,Non Beasiswa
+84,18,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,78,Beasiswa
+85,19,P,IPA,SMP1,1,12,Bahasa Inggris,Sakit,78,Beasiswa
+86,22,P,BI,SMP2,1,12,Bahasa Indonesia,Sakit,77,Beasiswa
+87,19,P,IPA,SMP2,1,12,MTK,Izin,75,Non Beasiswa
+88,22,P,BI,SMP3,1,10,Bahasa Indonesia,Izin,76,Beasiswa
+89,19,L,IPA,SMP3,1,12,MTK,Alfa,78,Non Beasiswa
+90,18,L,BI,SMP2,1,10,Bahasa Inggris,Izin,75,Non Beasiswa
+91,22,L,BI,SMP2,1,10,MTK,Izin,77,Beasiswa
+92,21,P,IPS,SMP2,1,10,Bahasa Inggris,Izin,78,Non Beasiswa
+93,19,P,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,77,Beasiswa
+94,18,L,IPS,SMP1,1,10,Bahasa Indonesia,Sakit,79,Beasiswa
+95,20,L,BI,SMP3,1,12,MTK,Hadir,77,Non Beasiswa
+96,22,P,IPS,SMP2,1,11,MTK,Sakit,78,Beasiswa
+97,19,L,BI,SMP1,1,10,MTK,Sakit,79,Non Beasiswa
+98,20,P,BI,SMP2,1,11,Bahasa Indonesia,Izin,78,Non Beasiswa
+99,18,L,BI,SMP3,1,12,Bahasa Indonesia,Sakit,78,Non Beasiswa
+100,22,P,IPS,SMP2,1,10,MTK,Sakit,78,Beasiswa
+101,20,P,IPA,SMP2,1,11,Bahasa Inggris,Sakit,77,Non Beasiswa
+102,22,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,75,Beasiswa
+103,22,L,IPA,SMP2,1,12,Bahasa Indonesia,Sakit,77,Beasiswa
+104,21,P,BI,SMP3,1,11,Bahasa Indonesia,Alfa,76,Non Beasiswa
+105,21,L,IPS,SMP3,1,11,Bahasa Indonesia,Alfa,77,Non Beasiswa
+106,19,P,IPA,SMP2,1,10,MTK,Izin,79,Non Beasiswa
+107,21,L,BI,SMP2,1,11,MTK,Izin,76,Beasiswa
+108,20,L,IPS,SMP1,1,12,Bahasa Indonesia,Sakit,77,Beasiswa
+109,22,L,IPA,SMP3,1,11,MTK,Hadir,77,Beasiswa
+110,18,P,BI,SMP2,1,10,Bahasa Inggris,Alfa,75,Non Beasiswa
+111,19,P,IPS,SMP1,1,12,Bahasa Indonesia,Izin,79,Non Beasiswa
+112,22,P,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,77,Non Beasiswa
+113,22,L,IPA,SMP3,1,11,Bahasa Inggris,Sakit,77,Non Beasiswa
+114,18,P,BI,SMP3,1,12,Bahasa Inggris,Sakit,75,Non Beasiswa
+115,21,L,IPA,SMP3,1,10,MTK,Alfa,78,Non Beasiswa
+116,22,P,BI,SMP3,1,11,MTK,Alfa,75,Beasiswa
+117,22,L,IPA,SMP2,1,10,MTK,Hadir,75,Non Beasiswa
+118,20,L,IPA,SMP1,1,10,MTK,Izin,79,Beasiswa
+119,22,P,BI,SMP1,1,12,MTK,Izin,76,Beasiswa
+120,19,L,IPS,SMP1,1,12,Bahasa Indonesia,Hadir,79,Beasiswa
+121,21,P,IPA,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+122,22,L,IPS,SMP1,1,10,MTK,Alfa,79,Non Beasiswa
+123,20,P,IPS,SMP2,1,11,MTK,Alfa,77,Beasiswa
+124,20,L,IPS,SMP2,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+125,22,P,IPS,SMP1,1,12,Bahasa Inggris,Hadir,79,Beasiswa
+126,19,L,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,76,Non Beasiswa
+127,20,P,IPA,SMP2,1,12,Bahasa Inggris,Alfa,79,Non Beasiswa
+128,20,P,IPA,SMP3,1,11,Bahasa Inggris,Sakit,77,Beasiswa
+129,18,P,IPA,SMP2,1,10,MTK,Sakit,78,Beasiswa
+130,20,P,IPA,SMP2,1,11,Bahasa Inggris,Hadir,76,Beasiswa
+131,20,P,IPA,SMP2,1,10,MTK,Hadir,78,Non Beasiswa
+132,22,P,IPS,SMP1,1,10,MTK,Sakit,77,Non Beasiswa
+133,18,P,IPA,SMP3,1,12,MTK,Sakit,75,Non Beasiswa
+134,20,L,IPA,SMP2,1,10,Bahasa Inggris,Hadir,77,Non Beasiswa
+135,21,L,IPA,SMP3,1,10,Bahasa Inggris,Sakit,77,Non Beasiswa
+136,22,P,IPS,SMP1,1,11,Bahasa Indonesia,Sakit,78,Non Beasiswa
+137,20,L,IPA,SMP1,1,12,Bahasa Indonesia,Sakit,75,Non Beasiswa
+138,20,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,79,Beasiswa
+139,20,L,IPA,SMP2,1,12,Bahasa Indonesia,Alfa,77,Beasiswa
+140,18,P,IPS,SMP3,1,11,Bahasa Inggris,Hadir,77,Beasiswa
+141,22,P,IPA,SMP3,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+142,19,L,IPS,SMP3,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+143,18,L,IPS,SMP1,1,10,Bahasa Indonesia,Alfa,75,Non Beasiswa
+144,19,L,BI,SMP1,1,11,MTK,Sakit,77,Beasiswa
+145,20,L,IPA,SMP2,1,12,MTK,Alfa,75,Non Beasiswa
+146,21,L,IPA,SMP1,1,10,MTK,Hadir,79,Beasiswa
+147,18,L,IPA,SMP1,1,12,Bahasa Inggris,Alfa,77,Beasiswa
+148,19,L,BI,SMP3,1,11,MTK,Sakit,79,Beasiswa
+149,20,P,IPS,SMP3,1,10,Bahasa Indonesia,Sakit,75,Beasiswa
+150,19,P,IPA,SMP1,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+151,22,P,IPA,SMP2,1,10,MTK,Sakit,79,Beasiswa
+152,20,L,IPA,SMP3,1,11,Bahasa Inggris,Hadir,75,Beasiswa
+153,21,P,IPA,SMP3,1,11,MTK,Hadir,79,Beasiswa
+154,21,L,BI,SMP1,1,10,Bahasa Indonesia,Hadir,78,Non Beasiswa
+155,22,L,IPS,SMP3,1,11,Bahasa Indonesia,Alfa,75,Non Beasiswa
+156,20,P,BI,SMP3,1,10,Bahasa Inggris,Hadir,78,Non Beasiswa
+157,18,L,IPA,SMP3,1,12,Bahasa Inggris,Izin,79,Beasiswa
+158,20,P,BI,SMP1,1,10,Bahasa Indonesia,Sakit,75,Beasiswa
+159,19,L,BI,SMP2,1,11,Bahasa Indonesia,Alfa,77,Non Beasiswa
+160,20,L,IPA,SMP3,1,11,MTK,Hadir,79,Non Beasiswa
+161,21,L,BI,SMP1,1,11,MTK,Alfa,76,Beasiswa
+162,21,L,IPS,SMP2,1,11,MTK,Izin,78,Beasiswa
+163,18,P,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+164,18,P,IPS,SMP3,1,11,Bahasa Inggris,Alfa,77,Non Beasiswa
+165,21,L,IPS,SMP3,1,11,Bahasa Inggris,Sakit,76,Non Beasiswa
+166,22,L,IPS,SMP2,1,11,Bahasa Indonesia,Hadir,77,Non Beasiswa
+167,18,L,IPA,SMP2,1,11,Bahasa Inggris,Izin,75,Beasiswa
+168,22,P,IPS,SMP2,1,12,MTK,Sakit,78,Beasiswa
+169,18,P,IPS,SMP1,1,11,MTK,Alfa,78,Beasiswa
+170,19,P,BI,SMP1,1,12,Bahasa Indonesia,Izin,77,Non Beasiswa
+171,22,P,IPA,SMP3,1,12,Bahasa Inggris,Sakit,76,Beasiswa
+172,18,P,IPS,SMP3,1,11,MTK,Alfa,77,Non Beasiswa
+173,20,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,76,Beasiswa
+174,22,L,IPS,SMP2,1,12,MTK,Izin,78,Non Beasiswa
+175,21,L,BI,SMP2,1,11,MTK,Hadir,76,Beasiswa
+176,21,L,IPS,SMP2,1,11,MTK,Sakit,78,Non Beasiswa
+177,21,L,IPS,SMP2,1,11,Bahasa Inggris,Alfa,77,Beasiswa
+178,21,P,IPA,SMP3,1,11,MTK,Alfa,76,Beasiswa
+179,22,L,IPS,SMP3,1,12,Bahasa Inggris,Izin,77,Non Beasiswa
+180,19,P,IPA,SMP2,1,11,MTK,Hadir,76,Beasiswa
+181,21,P,IPS,SMP1,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+182,18,P,IPA,SMP2,1,10,MTK,Hadir,79,Non Beasiswa
+183,18,L,IPA,SMP2,1,10,Bahasa Inggris,Hadir,78,Non Beasiswa
+184,18,L,IPA,SMP3,1,12,MTK,Hadir,75,Beasiswa
+185,21,L,IPA,SMP3,1,10,Bahasa Indonesia,Sakit,78,Beasiswa
+186,22,L,IPA,SMP3,1,10,MTK,Alfa,75,Beasiswa
+187,18,L,IPA,SMP2,1,12,MTK,Sakit,75,Non Beasiswa
+188,20,L,IPA,SMP1,1,12,Bahasa Inggris,Izin,75,Non Beasiswa
+189,21,P,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,75,Beasiswa
+190,20,P,IPS,SMP1,1,11,Bahasa Inggris,Sakit,79,Non Beasiswa
+191,19,L,IPS,SMP3,1,11,Bahasa Inggris,Sakit,77,Beasiswa
+192,21,L,IPA,SMP1,1,10,Bahasa Inggris,Hadir,78,Non Beasiswa
+193,18,L,IPS,SMP1,1,10,MTK,Sakit,76,Non Beasiswa
+194,18,P,BI,SMP2,1,12,MTK,Hadir,78,Non Beasiswa
+195,19,L,IPS,SMP2,1,10,MTK,Sakit,77,Non Beasiswa
+196,18,P,IPS,SMP3,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+197,18,P,BI,SMP3,1,10,Bahasa Inggris,Sakit,77,Beasiswa
+198,20,L,BI,SMP3,1,10,MTK,Sakit,77,Beasiswa
+199,21,L,IPA,SMP1,1,10,Bahasa Inggris,Sakit,76,Non Beasiswa
+200,18,L,IPA,SMP1,1,12,Bahasa Inggris,Izin,76,Beasiswa
+201,22,L,IPA,SMP2,1,10,Bahasa Indonesia,Hadir,76,Beasiswa
+202,20,P,IPA,SMP3,1,10,Bahasa Inggris,Sakit,79,Beasiswa
+203,18,L,IPA,SMP1,1,12,Bahasa Inggris,Izin,78,Beasiswa
+204,19,P,IPA,SMP1,1,12,MTK,Alfa,76,Beasiswa
+205,22,P,IPA,SMP2,1,11,Bahasa Inggris,Hadir,79,Beasiswa
+206,20,L,BI,SMP3,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+207,22,P,BI,SMP3,1,12,Bahasa Indonesia,Izin,75,Non Beasiswa
+208,19,L,BI,SMP1,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+209,19,P,IPS,SMP1,1,12,MTK,Izin,77,Non Beasiswa
+210,21,L,IPA,SMP3,1,10,Bahasa Indonesia,Izin,76,Beasiswa
+211,19,L,BI,SMP2,1,10,MTK,Hadir,76,Beasiswa
+212,20,L,IPS,SMP1,1,12,Bahasa Indonesia,Hadir,77,Beasiswa
+213,22,P,IPA,SMP2,1,12,Bahasa Inggris,Hadir,76,Beasiswa
+214,18,P,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,78,Beasiswa
+215,19,P,BI,SMP3,1,12,Bahasa Inggris,Hadir,79,Non Beasiswa
+216,19,L,BI,SMP3,1,12,MTK,Hadir,75,Beasiswa
+217,21,P,IPS,SMP1,1,12,MTK,Alfa,77,Non Beasiswa
+218,22,P,BI,SMP2,1,10,Bahasa Inggris,Izin,76,Beasiswa
+219,18,P,BI,SMP1,1,11,MTK,Sakit,77,Non Beasiswa
+220,18,P,IPS,SMP1,1,11,MTK,Izin,77,Beasiswa
+221,22,L,BI,SMP2,1,10,Bahasa Indonesia,Sakit,75,Non Beasiswa
+222,20,P,BI,SMP2,1,10,Bahasa Inggris,Izin,75,Beasiswa
+223,19,P,IPA,SMP3,1,12,Bahasa Inggris,Izin,76,Non Beasiswa
+224,19,P,BI,SMP2,1,11,Bahasa Indonesia,Alfa,78,Non Beasiswa
+225,22,L,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,75,Beasiswa
+226,18,P,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,75,Non Beasiswa
+227,22,P,IPA,SMP3,1,11,Bahasa Inggris,Izin,78,Non Beasiswa
+228,19,P,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,78,Non Beasiswa
+229,20,P,IPA,SMP2,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+230,22,L,BI,SMP1,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+231,21,L,IPS,SMP1,1,10,MTK,Sakit,78,Beasiswa
+232,20,L,BI,SMP1,1,10,MTK,Izin,77,Beasiswa
+233,22,P,IPS,SMP1,1,10,MTK,Izin,75,Beasiswa
+234,20,P,BI,SMP2,1,10,Bahasa Inggris,Sakit,75,Non Beasiswa
+235,18,P,IPA,SMP3,1,11,Bahasa Indonesia,Hadir,78,Non Beasiswa
+236,21,L,BI,SMP1,1,10,Bahasa Inggris,Izin,76,Non Beasiswa
+237,18,L,IPA,SMP3,1,12,Bahasa Indonesia,Izin,75,Beasiswa
+238,19,L,BI,SMP2,1,10,MTK,Izin,75,Non Beasiswa
+239,21,P,IPA,SMP3,1,11,MTK,Izin,77,Beasiswa
+240,21,L,IPS,SMP2,1,11,MTK,Sakit,79,Beasiswa
+241,20,L,IPS,SMP1,1,10,Bahasa Inggris,Sakit,78,Beasiswa
+242,20,P,BI,SMP3,1,12,MTK,Alfa,79,Non Beasiswa
+243,20,L,IPA,SMP1,1,11,MTK,Sakit,79,Non Beasiswa
+244,22,L,IPA,SMP1,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+245,22,L,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,77,Non Beasiswa
+246,22,L,IPS,SMP2,1,10,Bahasa Indonesia,Sakit,78,Beasiswa
+247,18,P,IPS,SMP2,1,12,MTK,Sakit,79,Non Beasiswa
+248,22,P,BI,SMP1,1,11,Bahasa Inggris,Alfa,77,Beasiswa
+249,21,L,IPS,SMP3,1,11,MTK,Sakit,75,Beasiswa
+250,18,L,IPS,SMP2,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+251,22,P,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+252,22,L,IPA,SMP3,1,12,MTK,Sakit,78,Beasiswa
+253,21,P,IPS,SMP1,1,12,Bahasa Indonesia,Alfa,75,Non Beasiswa
+254,22,L,IPS,SMP2,1,11,Bahasa Inggris,Izin,79,Beasiswa
+255,22,L,BI,SMP2,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+256,18,P,BI,SMP3,1,11,Bahasa Indonesia,Sakit,78,Beasiswa
+257,18,P,IPA,SMP3,1,12,Bahasa Inggris,Izin,76,Non Beasiswa
+258,18,L,IPS,SMP3,1,11,Bahasa Inggris,Izin,77,Non Beasiswa
+259,20,L,IPA,SMP1,1,11,Bahasa Inggris,Alfa,77,Non Beasiswa
+260,19,L,BI,SMP1,1,12,MTK,Hadir,79,Beasiswa
+261,22,P,IPS,SMP1,1,12,Bahasa Inggris,Izin,75,Beasiswa
+262,21,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,78,Beasiswa
+263,22,L,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,77,Non Beasiswa
+264,19,P,IPA,SMP1,1,10,MTK,Alfa,76,Non Beasiswa
+265,22,P,BI,SMP1,1,10,Bahasa Inggris,Sakit,77,Non Beasiswa
+266,18,L,IPA,SMP2,1,12,Bahasa Inggris,Alfa,75,Non Beasiswa
+267,19,L,BI,SMP2,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+268,20,P,IPA,SMP1,1,11,MTK,Izin,79,Non Beasiswa
+269,20,L,BI,SMP1,1,10,Bahasa Indonesia,Hadir,78,Beasiswa
+270,18,L,IPA,SMP2,1,12,MTK,Hadir,77,Beasiswa
+271,18,P,BI,SMP1,1,11,Bahasa Inggris,Izin,77,Non Beasiswa
+272,21,P,IPS,SMP3,1,10,Bahasa Indonesia,Hadir,78,Beasiswa
+273,22,P,BI,SMP2,1,11,Bahasa Inggris,Izin,76,Beasiswa
+274,18,L,IPS,SMP1,1,12,Bahasa Indonesia,Hadir,77,Non Beasiswa
+275,19,L,BI,SMP2,1,12,MTK,Izin,75,Beasiswa
+276,22,P,IPS,SMP1,1,12,Bahasa Inggris,Izin,77,Beasiswa
+277,21,L,IPS,SMP1,1,12,MTK,Hadir,75,Non Beasiswa
+278,19,P,BI,SMP2,1,11,MTK,Izin,75,Non Beasiswa
+279,18,P,BI,SMP1,1,10,Bahasa Indonesia,Sakit,76,Non Beasiswa
+280,19,P,BI,SMP3,1,11,Bahasa Inggris,Sakit,77,Beasiswa
+281,20,P,IPA,SMP2,1,10,MTK,Alfa,78,Non Beasiswa
+282,22,L,IPS,SMP3,1,11,Bahasa Inggris,Alfa,75,Non Beasiswa
+283,21,L,BI,SMP1,1,11,MTK,Izin,77,Non Beasiswa
+284,18,P,IPA,SMP2,1,12,MTK,Izin,79,Beasiswa
+285,20,P,IPA,SMP2,1,11,Bahasa Inggris,Sakit,79,Non Beasiswa
+286,18,P,BI,SMP3,1,11,Bahasa Indonesia,Izin,76,Beasiswa
+287,19,P,BI,SMP1,1,10,Bahasa Inggris,Alfa,79,Non Beasiswa
+288,21,L,IPA,SMP2,1,12,Bahasa Inggris,Izin,78,Non Beasiswa
+289,20,L,IPS,SMP3,1,12,Bahasa Indonesia,Alfa,76,Beasiswa
+290,21,P,BI,SMP1,1,12,MTK,Sakit,76,Non Beasiswa
+291,20,L,BI,SMP1,1,10,Bahasa Indonesia,Izin,75,Beasiswa
+292,18,L,IPS,SMP2,1,11,Bahasa Indonesia,Sakit,77,Non Beasiswa
+293,22,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,75,Beasiswa
+294,22,P,IPA,SMP2,1,11,MTK,Alfa,78,Non Beasiswa
+295,20,L,IPA,SMP1,1,10,Bahasa Indonesia,Hadir,76,Non Beasiswa
+296,20,P,IPA,SMP1,1,10,Bahasa Inggris,Alfa,78,Beasiswa
+297,18,P,BI,SMP2,1,11,Bahasa Inggris,Alfa,78,Non Beasiswa
+298,21,L,IPS,SMP2,1,10,MTK,Hadir,75,Beasiswa
+299,19,P,IPA,SMP2,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+300,21,L,BI,SMP3,1,10,MTK,Izin,78,Non Beasiswa
+301,20,L,BI,SMP3,1,10,MTK,Sakit,75,Beasiswa
+302,18,P,BI,SMP1,1,10,Bahasa Inggris,Alfa,77,Non Beasiswa
+303,19,P,IPA,SMP2,1,11,MTK,Izin,76,Non Beasiswa
+304,22,L,BI,SMP3,1,12,Bahasa Indonesia,Izin,77,Beasiswa
+305,20,L,IPA,SMP3,1,11,MTK,Hadir,76,Non Beasiswa
+306,20,L,IPS,SMP1,1,10,Bahasa Inggris,Sakit,75,Beasiswa
+307,21,L,IPS,SMP1,1,10,MTK,Izin,75,Beasiswa
+308,18,P,BI,SMP3,1,11,MTK,Izin,78,Non Beasiswa
+309,20,P,BI,SMP3,1,10,Bahasa Indonesia,Hadir,79,Beasiswa
+310,18,L,IPA,SMP1,1,11,MTK,Izin,79,Non Beasiswa
+311,22,L,IPA,SMP3,1,11,Bahasa Inggris,Sakit,79,Beasiswa
+312,21,P,BI,SMP1,1,11,MTK,Izin,78,Beasiswa
+313,19,P,BI,SMP2,1,10,Bahasa Inggris,Hadir,76,Non Beasiswa
+314,19,L,IPS,SMP3,1,11,Bahasa Inggris,Izin,78,Beasiswa
+315,19,P,IPA,SMP2,1,11,MTK,Hadir,76,Non Beasiswa
+316,22,L,IPS,SMP2,1,12,Bahasa Indonesia,Alfa,76,Non Beasiswa
+317,20,L,IPS,SMP1,1,12,MTK,Hadir,77,Non Beasiswa
+318,19,P,IPS,SMP1,1,10,Bahasa Inggris,Hadir,78,Beasiswa
+319,19,L,IPA,SMP2,1,11,MTK,Sakit,75,Beasiswa
+320,20,L,IPA,SMP3,1,12,Bahasa Indonesia,Izin,76,Beasiswa
+321,19,L,IPS,SMP1,1,11,Bahasa Inggris,Alfa,78,Non Beasiswa
+322,22,P,IPS,SMP2,1,12,Bahasa Inggris,Izin,77,Beasiswa
+323,21,L,BI,SMP3,1,10,MTK,Sakit,79,Non Beasiswa
+324,22,L,BI,SMP1,1,12,MTK,Sakit,77,Non Beasiswa
+325,19,P,BI,SMP2,1,12,MTK,Izin,76,Non Beasiswa
+326,20,P,IPA,SMP3,1,11,Bahasa Indonesia,Alfa,77,Non Beasiswa
+327,21,L,IPS,SMP1,1,11,Bahasa Indonesia,Sakit,79,Beasiswa
+328,22,P,BI,SMP1,1,12,Bahasa Indonesia,Alfa,79,Beasiswa
+329,20,L,IPA,SMP2,1,10,Bahasa Inggris,Izin,77,Beasiswa
+330,18,L,IPS,SMP2,1,10,Bahasa Indonesia,Alfa,78,Non Beasiswa
+331,18,P,BI,SMP2,1,10,MTK,Sakit,78,Beasiswa
+332,20,P,BI,SMP3,1,12,Bahasa Inggris,Alfa,79,Beasiswa
+333,20,P,IPA,SMP3,1,11,Bahasa Inggris,Alfa,76,Beasiswa
+334,20,L,IPS,SMP1,1,10,Bahasa Indonesia,Alfa,77,Beasiswa
+335,18,P,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,77,Beasiswa
+336,19,L,IPA,SMP1,1,12,Bahasa Indonesia,Sakit,76,Beasiswa
+337,19,L,IPA,SMP2,1,11,Bahasa Inggris,Alfa,77,Beasiswa
+338,19,P,IPS,SMP1,1,11,Bahasa Inggris,Hadir,75,Beasiswa
+339,18,L,IPA,SMP1,1,11,MTK,Alfa,76,Beasiswa
+340,21,P,IPS,SMP1,1,11,Bahasa Indonesia,Hadir,76,Non Beasiswa
+341,19,P,IPS,SMP3,1,12,Bahasa Inggris,Izin,76,Beasiswa
+342,18,P,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,75,Beasiswa
+343,22,L,BI,SMP3,1,12,Bahasa Indonesia,Izin,78,Non Beasiswa
+344,21,P,BI,SMP2,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+345,19,P,BI,SMP2,1,12,MTK,Hadir,76,Non Beasiswa
+346,19,L,BI,SMP3,1,11,Bahasa Indonesia,Alfa,76,Beasiswa
+347,19,P,IPS,SMP3,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+348,18,P,IPA,SMP1,1,12,Bahasa Indonesia,Alfa,78,Non Beasiswa
+349,18,P,IPA,SMP1,1,10,Bahasa Indonesia,Hadir,76,Non Beasiswa
+350,20,L,IPS,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+351,18,P,IPA,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+352,21,P,BI,SMP3,1,12,Bahasa Indonesia,Alfa,76,Beasiswa
+353,20,L,BI,SMP3,1,11,MTK,Izin,75,Beasiswa
+354,20,L,BI,SMP1,1,11,Bahasa Inggris,Izin,76,Beasiswa
+355,21,P,BI,SMP1,1,12,Bahasa Indonesia,Alfa,78,Non Beasiswa
+356,18,P,IPA,SMP3,1,10,Bahasa Inggris,Alfa,77,Non Beasiswa
+357,18,P,IPA,SMP3,1,11,MTK,Hadir,78,Non Beasiswa
+358,22,P,IPS,SMP3,1,10,Bahasa Indonesia,Izin,79,Non Beasiswa
+359,21,L,IPS,SMP2,1,11,Bahasa Indonesia,Hadir,78,Beasiswa
+360,20,L,BI,SMP3,1,12,Bahasa Indonesia,Izin,76,Beasiswa
+361,20,P,IPS,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+362,21,L,IPS,SMP2,1,10,Bahasa Indonesia,Sakit,79,Beasiswa
+363,20,P,IPA,SMP1,1,11,MTK,Izin,79,Beasiswa
+364,22,L,IPS,SMP1,1,10,Bahasa Inggris,Izin,78,Beasiswa
+365,21,L,BI,SMP1,1,10,MTK,Sakit,78,Beasiswa
+366,18,P,IPS,SMP2,1,12,MTK,Sakit,79,Non Beasiswa
+367,20,L,IPA,SMP2,1,12,Bahasa Indonesia,Alfa,77,Non Beasiswa
+368,20,P,IPS,SMP2,1,10,MTK,Alfa,76,Non Beasiswa
+369,21,L,BI,SMP2,1,12,MTK,Sakit,77,Non Beasiswa
+370,20,P,IPA,SMP1,1,10,Bahasa Indonesia,Izin,75,Beasiswa
+371,20,L,IPS,SMP3,1,11,MTK,Izin,77,Beasiswa
+372,20,P,IPS,SMP2,1,12,Bahasa Indonesia,Sakit,78,Beasiswa
+373,18,L,BI,SMP2,1,10,Bahasa Indonesia,Izin,78,Beasiswa
+374,19,P,IPS,SMP2,1,12,Bahasa Inggris,Sakit,77,Beasiswa
+375,19,P,IPS,SMP1,1,11,MTK,Hadir,76,Non Beasiswa
+376,22,P,IPS,SMP3,1,12,Bahasa Inggris,Sakit,79,Beasiswa
+377,18,P,IPA,SMP1,1,12,Bahasa Indonesia,Sakit,77,Non Beasiswa
+378,21,P,BI,SMP1,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+379,18,L,IPS,SMP3,1,11,MTK,Hadir,75,Non Beasiswa
+380,21,P,IPA,SMP3,1,10,MTK,Hadir,76,Non Beasiswa
+381,20,P,BI,SMP1,1,11,MTK,Sakit,77,Beasiswa
+382,22,L,IPS,SMP2,1,11,Bahasa Inggris,Alfa,75,Non Beasiswa
+383,22,L,IPS,SMP2,1,11,MTK,Hadir,79,Beasiswa
+384,18,L,BI,SMP1,1,12,Bahasa Inggris,Izin,76,Non Beasiswa
+385,21,P,IPS,SMP1,1,11,Bahasa Indonesia,Hadir,75,Beasiswa
+386,21,L,BI,SMP2,1,11,Bahasa Inggris,Alfa,78,Non Beasiswa
+387,18,L,IPA,SMP1,1,11,Bahasa Inggris,Hadir,77,Beasiswa
+388,22,P,IPA,SMP1,1,12,Bahasa Inggris,Alfa,76,Beasiswa
+389,18,L,IPA,SMP3,1,11,MTK,Hadir,79,Non Beasiswa
+390,19,P,IPA,SMP1,1,10,Bahasa Inggris,Izin,78,Non Beasiswa
+391,19,L,BI,SMP2,1,12,MTK,Izin,75,Beasiswa
+392,22,P,IPS,SMP2,1,12,Bahasa Inggris,Sakit,79,Non Beasiswa
+393,19,L,BI,SMP2,1,11,Bahasa Inggris,Sakit,77,Non Beasiswa
+394,18,L,IPA,SMP2,1,12,MTK,Hadir,75,Non Beasiswa
+395,21,L,IPA,SMP1,1,10,Bahasa Indonesia,Sakit,77,Non Beasiswa
+396,22,P,IPS,SMP2,1,10,Bahasa Inggris,Sakit,78,Beasiswa
+397,20,P,IPS,SMP1,1,12,Bahasa Inggris,Alfa,75,Non Beasiswa
+398,19,P,IPA,SMP2,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+399,22,L,BI,SMP1,1,12,Bahasa Inggris,Alfa,77,Non Beasiswa
+400,18,L,IPS,SMP1,1,11,Bahasa Inggris,Izin,75,Non Beasiswa
+401,20,L,BI,SMP3,1,10,MTK,Hadir,78,Beasiswa
+402,22,P,BI,SMP1,1,12,Bahasa Indonesia,Sakit,76,Beasiswa
+403,19,P,BI,SMP1,1,10,Bahasa Indonesia,Izin,79,Beasiswa
+404,22,L,IPA,SMP1,1,11,MTK,Hadir,79,Beasiswa
+405,21,L,IPS,SMP1,1,10,Bahasa Inggris,Alfa,77,Beasiswa
+406,18,P,IPA,SMP2,1,11,MTK,Alfa,78,Non Beasiswa
+407,22,L,IPA,SMP2,1,11,Bahasa Inggris,Alfa,79,Beasiswa
+408,18,P,BI,SMP1,1,10,Bahasa Inggris,Hadir,76,Beasiswa
+409,20,L,BI,SMP3,1,11,Bahasa Inggris,Hadir,78,Non Beasiswa
+410,19,L,BI,SMP2,1,11,Bahasa Inggris,Izin,75,Non Beasiswa
+411,19,L,IPS,SMP3,1,11,MTK,Alfa,77,Beasiswa
+412,21,P,BI,SMP3,1,12,Bahasa Indonesia,Izin,77,Beasiswa
+413,20,P,IPS,SMP1,1,10,Bahasa Indonesia,Sakit,75,Non Beasiswa
+414,22,P,IPS,SMP1,1,12,MTK,Alfa,76,Non Beasiswa
+415,20,L,IPS,SMP1,1,10,Bahasa Inggris,Alfa,79,Beasiswa
+416,19,L,IPA,SMP1,1,11,Bahasa Indonesia,Alfa,76,Non Beasiswa
+417,19,P,BI,SMP1,1,10,Bahasa Inggris,Izin,77,Non Beasiswa
+418,22,L,BI,SMP2,1,12,Bahasa Inggris,Izin,79,Non Beasiswa
+419,22,L,BI,SMP2,1,12,Bahasa Inggris,Sakit,75,Non Beasiswa
+420,20,P,BI,SMP2,1,12,Bahasa Inggris,Izin,77,Beasiswa
+421,18,L,IPA,SMP1,1,11,Bahasa Inggris,Hadir,78,Non Beasiswa
+422,20,P,BI,SMP2,1,12,Bahasa Indonesia,Sakit,76,Beasiswa
+423,18,P,IPA,SMP1,1,12,Bahasa Inggris,Hadir,78,Beasiswa
+424,20,L,BI,SMP1,1,12,Bahasa Indonesia,Sakit,76,Beasiswa
+425,18,P,BI,SMP2,1,10,Bahasa Inggris,Alfa,79,Beasiswa
+426,22,P,IPA,SMP3,1,12,Bahasa Indonesia,Izin,75,Beasiswa
+427,22,L,IPA,SMP2,1,12,Bahasa Inggris,Sakit,79,Non Beasiswa
+428,19,L,IPS,SMP1,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+429,19,L,IPS,SMP1,1,10,MTK,Izin,77,Non Beasiswa
+430,20,P,BI,SMP2,1,11,MTK,Izin,78,Beasiswa
+431,20,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,77,Non Beasiswa
+432,22,L,IPS,SMP3,1,10,Bahasa Indonesia,Alfa,76,Non Beasiswa
+433,22,P,BI,SMP1,1,11,Bahasa Inggris,Alfa,78,Non Beasiswa
+434,20,L,IPS,SMP1,1,12,Bahasa Indonesia,Izin,79,Non Beasiswa
+435,19,P,IPS,SMP3,1,10,Bahasa Indonesia,Alfa,79,Beasiswa
+436,20,P,BI,SMP1,1,11,Bahasa Inggris,Hadir,78,Beasiswa
+437,20,P,IPA,SMP3,1,12,Bahasa Indonesia,Hadir,79,Beasiswa
+438,22,P,IPA,SMP2,1,12,Bahasa Inggris,Hadir,75,Beasiswa
+439,22,L,IPA,SMP1,1,11,Bahasa Inggris,Izin,75,Non Beasiswa
+440,19,P,IPA,SMP2,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+441,22,P,BI,SMP2,1,12,Bahasa Inggris,Sakit,77,Non Beasiswa
+442,22,P,BI,SMP2,1,10,Bahasa Inggris,Hadir,75,Non Beasiswa
+443,19,L,BI,SMP1,1,12,Bahasa Inggris,Sakit,75,Beasiswa
+444,22,L,IPS,SMP1,1,10,MTK,Hadir,78,Non Beasiswa
+445,19,L,IPS,SMP3,1,11,Bahasa Inggris,Sakit,79,Beasiswa
+446,19,P,BI,SMP1,1,12,MTK,Hadir,75,Beasiswa
+447,19,L,IPS,SMP3,1,12,Bahasa Inggris,Hadir,79,Non Beasiswa
+448,19,P,IPA,SMP2,1,12,MTK,Hadir,76,Beasiswa
+449,20,P,BI,SMP1,1,10,MTK,Izin,76,Beasiswa
+450,21,P,IPS,SMP1,1,10,MTK,Alfa,79,Non Beasiswa
+451,19,L,IPS,SMP2,1,12,Bahasa Inggris,Sakit,76,Beasiswa
+452,20,L,IPA,SMP2,1,12,MTK,Alfa,78,Beasiswa
+453,18,L,IPS,SMP2,1,11,Bahasa Inggris,Izin,77,Beasiswa
+454,20,L,IPA,SMP1,1,10,Bahasa Inggris,Alfa,78,Beasiswa
+455,20,P,IPS,SMP3,1,12,Bahasa Indonesia,Izin,75,Beasiswa
+456,18,P,IPS,SMP1,1,10,Bahasa Inggris,Izin,76,Beasiswa
+457,19,P,IPA,SMP2,1,12,Bahasa Indonesia,Alfa,75,Non Beasiswa
+458,18,L,BI,SMP3,1,10,MTK,Izin,78,Non Beasiswa
+459,19,L,IPA,SMP2,1,12,Bahasa Inggris,Izin,75,Beasiswa
+460,19,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,75,Non Beasiswa
+461,20,P,IPS,SMP1,1,11,Bahasa Indonesia,Hadir,76,Beasiswa
+462,20,P,IPS,SMP2,1,11,Bahasa Inggris,Alfa,76,Non Beasiswa
+463,22,P,IPS,SMP3,1,10,Bahasa Indonesia,Hadir,79,Beasiswa
+464,22,L,IPS,SMP1,1,11,Bahasa Inggris,Izin,79,Beasiswa
+465,20,P,BI,SMP2,1,10,MTK,Alfa,76,Beasiswa
+466,22,L,BI,SMP2,1,11,Bahasa Indonesia,Izin,76,Beasiswa
+467,21,L,BI,SMP3,1,10,Bahasa Inggris,Alfa,78,Non Beasiswa
+468,19,L,IPS,SMP1,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+469,19,P,IPS,SMP2,1,10,MTK,Sakit,76,Beasiswa
+470,18,P,IPA,SMP2,1,11,MTK,Hadir,76,Non Beasiswa
+471,20,P,IPA,SMP1,1,11,MTK,Alfa,75,Non Beasiswa
+472,22,P,BI,SMP1,1,10,MTK,Izin,77,Beasiswa
+473,21,P,IPA,SMP3,1,12,Bahasa Inggris,Hadir,78,Non Beasiswa
+474,22,L,IPS,SMP2,1,10,Bahasa Inggris,Izin,79,Beasiswa
+475,22,P,IPA,SMP1,1,12,MTK,Alfa,79,Non Beasiswa
+476,18,L,BI,SMP1,1,10,Bahasa Inggris,Hadir,75,Beasiswa
+477,20,P,IPA,SMP1,1,12,Bahasa Inggris,Hadir,78,Non Beasiswa
+478,22,L,BI,SMP2,1,12,Bahasa Indonesia,Izin,78,Non Beasiswa
+479,19,P,IPS,SMP3,1,10,Bahasa Indonesia,Alfa,76,Beasiswa
+480,21,L,IPS,SMP2,1,12,Bahasa Indonesia,Alfa,76,Beasiswa
+481,20,L,IPS,SMP2,1,12,MTK,Izin,79,Non Beasiswa
+482,22,P,BI,SMP2,1,11,MTK,Sakit,77,Non Beasiswa
+483,19,L,BI,SMP2,1,12,Bahasa Indonesia,Alfa,78,Non Beasiswa
+484,21,P,BI,SMP3,1,10,MTK,Hadir,76,Non Beasiswa
+485,22,P,BI,SMP1,1,11,MTK,Hadir,76,Non Beasiswa
+486,22,L,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,79,Non Beasiswa
+487,22,L,IPA,SMP3,1,10,MTK,Alfa,78,Non Beasiswa
+488,20,P,IPS,SMP2,1,11,MTK,Sakit,76,Non Beasiswa
+489,20,P,BI,SMP2,1,10,Bahasa Indonesia,Sakit,78,Beasiswa
+490,22,L,IPA,SMP1,1,11,Bahasa Inggris,Alfa,77,Non Beasiswa
+491,18,P,IPA,SMP1,1,11,MTK,Izin,78,Non Beasiswa
+492,22,L,IPA,SMP2,1,12,Bahasa Inggris,Alfa,77,Non Beasiswa
+493,21,L,IPS,SMP1,1,11,Bahasa Inggris,Izin,76,Beasiswa
+494,21,L,IPS,SMP1,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+495,22,P,BI,SMP2,1,12,Bahasa Indonesia,Hadir,77,Beasiswa
+496,18,P,BI,SMP2,1,11,Bahasa Inggris,Sakit,79,Beasiswa
+497,19,L,BI,SMP1,1,10,Bahasa Inggris,Sakit,77,Non Beasiswa
+498,18,L,IPA,SMP1,1,11,Bahasa Indonesia,Hadir,78,Non Beasiswa
+499,20,L,IPA,SMP1,1,12,Bahasa Inggris,Sakit,77,Beasiswa
+500,21,P,IPA,SMP1,1,10,Bahasa Inggris,Izin,77,Non Beasiswa
+501,18,P,IPA,SMP3,1,12,Bahasa Inggris,Hadir,75,Non Beasiswa
+502,20,L,IPS,SMP1,1,11,Bahasa Inggris,Alfa,75,Beasiswa
+503,19,L,IPS,SMP3,1,11,Bahasa Inggris,Sakit,79,Non Beasiswa
+504,20,L,BI,SMP1,1,10,MTK,Sakit,77,Non Beasiswa
+505,22,P,BI,SMP3,1,10,Bahasa Indonesia,Sakit,76,Non Beasiswa
+506,19,P,IPS,SMP1,1,11,MTK,Izin,77,Non Beasiswa
+507,18,P,IPS,SMP3,1,12,Bahasa Inggris,Hadir,77,Beasiswa
+508,20,L,IPS,SMP1,1,10,Bahasa Indonesia,Alfa,78,Non Beasiswa
+509,19,L,IPS,SMP1,1,12,MTK,Hadir,75,Beasiswa
+510,19,L,IPS,SMP3,1,11,Bahasa Indonesia,Alfa,77,Beasiswa
+511,22,L,IPS,SMP3,1,12,MTK,Izin,79,Beasiswa
+512,19,L,IPS,SMP2,1,11,Bahasa Indonesia,Hadir,77,Beasiswa
+513,22,P,IPA,SMP2,1,12,MTK,Hadir,76,Beasiswa
+514,21,P,IPS,SMP2,1,11,Bahasa Indonesia,Alfa,79,Beasiswa
+515,19,L,BI,SMP1,1,12,Bahasa Indonesia,Izin,76,Non Beasiswa
+516,20,P,IPA,SMP1,1,11,MTK,Alfa,75,Beasiswa
+517,18,L,IPA,SMP1,1,10,Bahasa Indonesia,Sakit,78,Non Beasiswa
+518,22,P,BI,SMP2,1,10,Bahasa Inggris,Sakit,76,Beasiswa
+519,22,L,BI,SMP1,1,11,Bahasa Indonesia,Sakit,78,Beasiswa
+520,18,L,BI,SMP2,1,11,Bahasa Indonesia,Hadir,79,Non Beasiswa
+521,20,L,BI,SMP1,1,11,MTK,Sakit,75,Beasiswa
+522,21,L,IPS,SMP3,1,10,Bahasa Inggris,Hadir,79,Beasiswa
+523,22,P,IPA,SMP3,1,12,Bahasa Indonesia,Alfa,76,Beasiswa
+524,21,P,IPA,SMP2,1,10,Bahasa Indonesia,Sakit,78,Non Beasiswa
+525,20,L,IPA,SMP2,1,10,MTK,Sakit,79,Non Beasiswa
+526,22,L,BI,SMP1,1,10,Bahasa Indonesia,Izin,78,Beasiswa
+527,18,L,IPA,SMP2,1,10,MTK,Izin,75,Non Beasiswa
+528,20,L,BI,SMP3,1,10,Bahasa Indonesia,Sakit,75,Non Beasiswa
+529,20,L,BI,SMP3,1,11,Bahasa Indonesia,Izin,76,Beasiswa
+530,18,L,IPA,SMP3,1,10,MTK,Hadir,76,Beasiswa
+531,22,L,IPS,SMP2,1,11,Bahasa Indonesia,Hadir,79,Beasiswa
+532,20,P,IPA,SMP1,1,12,Bahasa Inggris,Sakit,79,Beasiswa
+533,18,P,IPA,SMP1,1,12,Bahasa Inggris,Sakit,79,Beasiswa
+534,20,P,BI,SMP1,1,11,Bahasa Inggris,Hadir,77,Non Beasiswa
+535,20,L,IPA,SMP1,1,11,Bahasa Indonesia,Hadir,78,Non Beasiswa
+536,19,L,IPS,SMP1,1,10,Bahasa Indonesia,Sakit,77,Non Beasiswa
+537,21,P,BI,SMP2,1,12,MTK,Sakit,76,Beasiswa
+538,19,P,BI,SMP3,1,11,MTK,Sakit,78,Beasiswa
+539,19,P,IPA,SMP1,1,12,Bahasa Inggris,Sakit,79,Beasiswa
+540,21,L,IPA,SMP3,1,11,Bahasa Inggris,Hadir,78,Non Beasiswa
+541,21,L,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+542,18,P,IPS,SMP1,1,11,MTK,Sakit,76,Non Beasiswa
+543,18,P,BI,SMP2,1,12,MTK,Alfa,77,Beasiswa
+544,20,P,BI,SMP2,1,12,Bahasa Inggris,Izin,76,Beasiswa
+545,20,L,IPS,SMP3,1,10,MTK,Alfa,76,Beasiswa
+546,18,L,IPS,SMP3,1,10,Bahasa Indonesia,Hadir,78,Non Beasiswa
+547,19,L,BI,SMP2,1,12,Bahasa Indonesia,Sakit,76,Beasiswa
+548,20,L,IPS,SMP1,1,12,MTK,Hadir,76,Non Beasiswa
+549,22,L,IPS,SMP1,1,11,MTK,Alfa,75,Non Beasiswa
+550,20,P,IPA,SMP3,1,11,MTK,Hadir,77,Non Beasiswa
+551,18,L,IPA,SMP2,1,10,Bahasa Inggris,Izin,75,Non Beasiswa
+552,21,P,IPA,SMP2,1,11,MTK,Sakit,77,Non Beasiswa
+553,22,P,BI,SMP1,1,10,Bahasa Indonesia,Alfa,76,Non Beasiswa
+554,22,P,IPS,SMP1,1,11,Bahasa Inggris,Alfa,77,Non Beasiswa
+555,18,L,IPA,SMP2,1,10,MTK,Sakit,76,Beasiswa
+556,20,L,IPS,SMP2,1,11,Bahasa Indonesia,Alfa,77,Beasiswa
+557,19,P,BI,SMP1,1,12,Bahasa Inggris,Hadir,75,Non Beasiswa
+558,19,P,IPS,SMP2,1,12,Bahasa Inggris,Hadir,78,Non Beasiswa
+559,19,P,IPA,SMP2,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+560,19,L,BI,SMP1,1,12,Bahasa Inggris,Sakit,78,Beasiswa
+561,22,L,IPA,SMP1,1,11,Bahasa Indonesia,Izin,75,Non Beasiswa
+562,21,L,IPS,SMP2,1,11,Bahasa Indonesia,Hadir,76,Beasiswa
+563,22,P,IPA,SMP2,1,12,Bahasa Inggris,Hadir,75,Non Beasiswa
+564,19,P,IPA,SMP2,1,12,Bahasa Inggris,Sakit,76,Non Beasiswa
+565,19,L,BI,SMP2,1,10,MTK,Izin,78,Beasiswa
+566,18,L,BI,SMP1,1,12,MTK,Hadir,77,Beasiswa
+567,18,L,IPS,SMP3,1,11,MTK,Alfa,77,Beasiswa
+568,18,P,BI,SMP3,1,11,Bahasa Indonesia,Hadir,76,Non Beasiswa
+569,20,P,IPS,SMP1,1,11,Bahasa Inggris,Sakit,75,Non Beasiswa
+570,21,L,BI,SMP2,1,12,Bahasa Inggris,Izin,77,Beasiswa
+571,22,L,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,75,Beasiswa
+572,18,P,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,79,Beasiswa
+573,18,P,IPS,SMP1,1,11,Bahasa Inggris,Izin,77,Beasiswa
+574,18,P,IPA,SMP2,1,10,Bahasa Indonesia,Alfa,75,Beasiswa
+575,20,L,IPA,SMP1,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+576,18,L,IPA,SMP1,1,10,Bahasa Inggris,Hadir,79,Beasiswa
+577,19,P,IPA,SMP2,1,12,Bahasa Inggris,Izin,78,Beasiswa
+578,20,L,BI,SMP2,1,10,MTK,Alfa,75,Non Beasiswa
+579,20,L,BI,SMP1,1,12,Bahasa Indonesia,Izin,78,Non Beasiswa
+580,18,P,IPA,SMP3,1,10,MTK,Izin,78,Non Beasiswa
+581,18,P,IPS,SMP3,1,10,MTK,Alfa,76,Beasiswa
+582,19,L,BI,SMP2,1,10,Bahasa Indonesia,Sakit,79,Beasiswa
+583,18,L,BI,SMP3,1,11,Bahasa Indonesia,Sakit,77,Beasiswa
+584,20,P,IPA,SMP2,1,11,Bahasa Indonesia,Izin,76,Non Beasiswa
+585,22,P,IPS,SMP2,1,10,Bahasa Inggris,Hadir,78,Non Beasiswa
+586,19,P,BI,SMP3,1,12,Bahasa Inggris,Hadir,79,Non Beasiswa
+587,22,L,IPA,SMP3,1,12,Bahasa Inggris,Sakit,79,Non Beasiswa
+588,20,L,IPA,SMP2,1,11,Bahasa Inggris,Izin,78,Beasiswa
+589,18,L,IPS,SMP2,1,10,Bahasa Indonesia,Sakit,78,Non Beasiswa
+590,20,P,IPA,SMP2,1,12,MTK,Sakit,79,Non Beasiswa
+591,20,L,IPS,SMP1,1,11,Bahasa Indonesia,Alfa,76,Beasiswa
+592,22,P,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,77,Non Beasiswa
+593,21,P,IPS,SMP3,1,10,Bahasa Indonesia,Izin,75,Beasiswa
+594,22,P,IPS,SMP1,1,10,MTK,Alfa,78,Non Beasiswa
+595,18,L,BI,SMP2,1,10,Bahasa Inggris,Hadir,79,Beasiswa
+596,18,P,BI,SMP1,1,10,Bahasa Inggris,Izin,78,Beasiswa
+597,22,P,BI,SMP1,1,10,Bahasa Indonesia,Alfa,78,Non Beasiswa
+598,20,L,IPA,SMP1,1,10,Bahasa Inggris,Alfa,78,Non Beasiswa
+599,22,P,BI,SMP1,1,10,MTK,Hadir,77,Non Beasiswa
+600,22,L,IPA,SMP1,1,12,Bahasa Indonesia,Hadir,78,Non Beasiswa
+601,19,P,IPS,SMP1,1,10,Bahasa Inggris,Alfa,76,Beasiswa
+602,21,P,IPA,SMP1,1,11,MTK,Hadir,78,Non Beasiswa
+603,18,L,IPS,SMP3,1,11,Bahasa Indonesia,Sakit,76,Beasiswa
+604,21,L,BI,SMP3,1,12,Bahasa Inggris,Alfa,76,Beasiswa
+605,20,P,IPS,SMP2,1,12,Bahasa Inggris,Hadir,76,Beasiswa
+606,18,L,BI,SMP1,1,10,MTK,Hadir,79,Beasiswa
+607,18,P,IPS,SMP2,1,11,MTK,Hadir,75,Beasiswa
+608,21,L,IPS,SMP2,1,10,MTK,Hadir,77,Non Beasiswa
+609,19,L,BI,SMP2,1,12,Bahasa Inggris,Izin,78,Non Beasiswa
+610,19,P,IPA,SMP1,1,12,MTK,Alfa,78,Non Beasiswa
+611,18,L,BI,SMP2,1,12,MTK,Hadir,77,Non Beasiswa
+612,22,P,IPA,SMP3,1,12,MTK,Izin,77,Beasiswa
+613,19,L,BI,SMP3,1,12,MTK,Hadir,78,Beasiswa
+614,20,L,BI,SMP3,1,12,MTK,Sakit,77,Beasiswa
+615,18,P,IPA,SMP3,1,11,MTK,Sakit,76,Beasiswa
+616,18,P,IPA,SMP3,1,11,MTK,Izin,78,Beasiswa
+617,18,L,IPA,SMP2,1,12,MTK,Hadir,77,Beasiswa
+618,19,P,BI,SMP3,1,12,MTK,Alfa,76,Beasiswa
+619,21,L,IPA,SMP1,1,11,MTK,Alfa,79,Non Beasiswa
+620,20,P,IPS,SMP1,1,11,Bahasa Inggris,Sakit,75,Non Beasiswa
+621,18,P,BI,SMP3,1,11,Bahasa Inggris,Alfa,79,Non Beasiswa
+622,19,P,BI,SMP2,1,11,Bahasa Inggris,Sakit,76,Non Beasiswa
+623,22,L,BI,SMP3,1,11,MTK,Sakit,78,Beasiswa
+624,18,P,IPA,SMP3,1,10,Bahasa Inggris,Hadir,78,Beasiswa
+625,22,P,IPA,SMP1,1,10,Bahasa Indonesia,Izin,78,Beasiswa
+626,19,P,BI,SMP3,1,11,Bahasa Inggris,Alfa,75,Non Beasiswa
+627,22,L,BI,SMP1,1,12,Bahasa Indonesia,Alfa,77,Non Beasiswa
+628,20,P,BI,SMP2,1,10,Bahasa Indonesia,Sakit,76,Non Beasiswa
+629,20,P,BI,SMP3,1,10,Bahasa Indonesia,Hadir,75,Non Beasiswa
+630,19,P,BI,SMP3,1,10,MTK,Sakit,78,Non Beasiswa
+631,18,P,IPS,SMP3,1,12,Bahasa Inggris,Alfa,77,Non Beasiswa
+632,20,L,BI,SMP2,1,11,MTK,Hadir,76,Non Beasiswa
+633,22,L,BI,SMP2,1,10,MTK,Hadir,77,Beasiswa
+634,20,L,BI,SMP3,1,11,Bahasa Inggris,Sakit,77,Non Beasiswa
+635,19,P,IPS,SMP3,1,12,Bahasa Indonesia,Alfa,76,Beasiswa
+636,18,P,IPA,SMP2,1,12,Bahasa Inggris,Izin,76,Non Beasiswa
+637,20,P,BI,SMP3,1,11,Bahasa Inggris,Alfa,75,Non Beasiswa
+638,21,L,IPS,SMP1,1,10,MTK,Alfa,76,Beasiswa
+639,18,P,IPS,SMP3,1,12,MTK,Hadir,78,Non Beasiswa
+640,19,L,IPA,SMP2,1,12,MTK,Izin,78,Non Beasiswa
+641,22,L,IPA,SMP2,1,12,Bahasa Indonesia,Alfa,75,Beasiswa
+642,20,P,BI,SMP3,1,12,Bahasa Inggris,Alfa,79,Non Beasiswa
+643,19,L,IPA,SMP2,1,10,Bahasa Indonesia,Sakit,76,Beasiswa
+644,19,L,IPA,SMP1,1,11,MTK,Hadir,79,Beasiswa
+645,21,P,IPS,SMP1,1,12,Bahasa Indonesia,Sakit,78,Non Beasiswa
+646,21,P,BI,SMP2,1,12,Bahasa Inggris,Izin,79,Non Beasiswa
+647,18,L,IPS,SMP2,1,12,MTK,Sakit,75,Beasiswa
+648,21,L,IPA,SMP3,1,12,Bahasa Indonesia,Hadir,76,Beasiswa
+649,19,L,IPS,SMP1,1,11,MTK,Izin,78,Beasiswa
+650,22,P,IPS,SMP1,1,12,Bahasa Indonesia,Sakit,75,Beasiswa
+651,20,P,BI,SMP2,1,12,Bahasa Indonesia,Hadir,77,Non Beasiswa
+652,21,P,IPS,SMP2,1,11,MTK,Alfa,79,Beasiswa
+653,18,P,BI,SMP1,1,10,Bahasa Indonesia,Hadir,78,Non Beasiswa
+654,18,L,BI,SMP2,1,12,Bahasa Indonesia,Alfa,78,Non Beasiswa
+655,19,P,BI,SMP3,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+656,22,L,BI,SMP3,1,11,MTK,Alfa,75,Non Beasiswa
+657,22,L,IPA,SMP2,1,12,Bahasa Inggris,Izin,75,Beasiswa
+658,19,L,BI,SMP2,1,11,MTK,Sakit,77,Non Beasiswa
+659,20,L,BI,SMP3,1,10,Bahasa Inggris,Sakit,78,Beasiswa
+660,19,P,IPA,SMP2,1,12,MTK,Alfa,75,Non Beasiswa
+661,22,L,BI,SMP3,1,10,MTK,Hadir,78,Beasiswa
+662,18,L,IPS,SMP1,1,10,Bahasa Indonesia,Alfa,79,Non Beasiswa
+663,18,L,IPS,SMP1,1,11,Bahasa Indonesia,Hadir,77,Non Beasiswa
+664,22,L,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,75,Beasiswa
+665,19,P,BI,SMP2,1,11,Bahasa Indonesia,Hadir,79,Beasiswa
+666,21,L,IPS,SMP3,1,12,MTK,Alfa,79,Beasiswa
+667,22,L,IPS,SMP3,1,11,Bahasa Indonesia,Sakit,78,Beasiswa
+668,19,L,IPS,SMP3,1,11,MTK,Hadir,77,Beasiswa
+669,22,P,IPA,SMP2,1,12,Bahasa Inggris,Alfa,79,Non Beasiswa
+670,19,P,IPA,SMP3,1,12,MTK,Sakit,78,Beasiswa
+671,21,P,IPS,SMP2,1,12,Bahasa Indonesia,Alfa,78,Beasiswa
+672,19,P,IPS,SMP3,1,11,Bahasa Indonesia,Hadir,78,Beasiswa
+673,19,P,BI,SMP3,1,10,Bahasa Inggris,Sakit,77,Beasiswa
+674,20,L,IPA,SMP2,1,10,Bahasa Indonesia,Hadir,78,Beasiswa
+675,22,L,IPS,SMP1,1,11,Bahasa Indonesia,Izin,75,Beasiswa
+676,22,P,IPA,SMP3,1,11,MTK,Hadir,75,Beasiswa
+677,22,L,IPA,SMP3,1,11,Bahasa Indonesia,Sakit,78,Non Beasiswa
+678,20,P,IPA,SMP2,1,10,Bahasa Indonesia,Alfa,76,Non Beasiswa
+679,20,P,IPA,SMP3,1,11,Bahasa Inggris,Alfa,75,Beasiswa
+680,18,P,IPS,SMP3,1,11,Bahasa Inggris,Alfa,77,Non Beasiswa
+681,19,L,IPA,SMP2,1,12,MTK,Izin,77,Beasiswa
+682,20,L,BI,SMP2,1,11,Bahasa Inggris,Alfa,79,Non Beasiswa
+683,19,L,IPA,SMP3,1,12,MTK,Izin,75,Non Beasiswa
+684,18,L,IPS,SMP1,1,12,MTK,Hadir,77,Non Beasiswa
+685,19,P,BI,SMP2,1,10,MTK,Sakit,77,Beasiswa
+686,20,P,IPS,SMP2,1,10,Bahasa Indonesia,Izin,77,Beasiswa
+687,21,L,IPA,SMP2,1,11,Bahasa Inggris,Hadir,75,Non Beasiswa
+688,22,L,IPS,SMP2,1,10,MTK,Hadir,76,Beasiswa
+689,19,P,BI,SMP2,1,10,Bahasa Inggris,Sakit,78,Beasiswa
+690,19,L,BI,SMP2,1,10,Bahasa Indonesia,Alfa,77,Non Beasiswa
+691,21,P,BI,SMP2,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+692,22,L,BI,SMP3,1,10,Bahasa Indonesia,Izin,79,Beasiswa
+693,22,P,IPS,SMP1,1,10,MTK,Hadir,78,Non Beasiswa
+694,22,P,IPA,SMP1,1,11,MTK,Izin,75,Beasiswa
+695,19,P,BI,SMP3,1,10,Bahasa Inggris,Sakit,79,Beasiswa
+696,22,L,IPA,SMP1,1,10,Bahasa Inggris,Alfa,77,Beasiswa
+697,19,P,IPS,SMP3,1,11,MTK,Alfa,75,Non Beasiswa
+698,22,L,BI,SMP3,1,12,Bahasa Inggris,Alfa,77,Non Beasiswa
+699,19,P,IPS,SMP2,1,12,MTK,Izin,78,Beasiswa
+700,19,P,IPS,SMP3,1,12,Bahasa Inggris,Hadir,75,Beasiswa
+701,19,L,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,79,Non Beasiswa
+702,18,L,IPA,SMP2,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+703,22,L,IPS,SMP1,1,10,MTK,Sakit,78,Non Beasiswa
+704,21,L,IPS,SMP2,1,10,Bahasa Inggris,Izin,78,Beasiswa
+705,19,P,BI,SMP2,1,11,Bahasa Indonesia,Alfa,78,Beasiswa
+706,20,L,BI,SMP1,1,11,Bahasa Inggris,Izin,77,Beasiswa
+707,21,L,BI,SMP3,1,11,MTK,Izin,76,Non Beasiswa
+708,19,L,BI,SMP3,1,10,Bahasa Indonesia,Izin,77,Non Beasiswa
+709,21,L,BI,SMP1,1,10,Bahasa Indonesia,Sakit,75,Non Beasiswa
+710,19,L,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,75,Non Beasiswa
+711,22,P,IPA,SMP2,1,11,Bahasa Indonesia,Izin,75,Non Beasiswa
+712,18,L,BI,SMP2,1,11,MTK,Izin,79,Non Beasiswa
+713,18,P,IPS,SMP1,1,12,MTK,Izin,78,Beasiswa
+714,19,P,IPS,SMP2,1,12,Bahasa Inggris,Alfa,78,Non Beasiswa
+715,21,L,IPA,SMP1,1,11,MTK,Alfa,77,Beasiswa
+716,20,P,IPS,SMP1,1,10,MTK,Hadir,75,Beasiswa
+717,20,P,IPA,SMP1,1,11,Bahasa Indonesia,Sakit,75,Non Beasiswa
+718,21,L,IPS,SMP1,1,11,MTK,Hadir,79,Beasiswa
+719,19,L,IPS,SMP3,1,12,MTK,Alfa,76,Beasiswa
+720,20,P,IPA,SMP2,1,10,Bahasa Indonesia,Izin,79,Beasiswa
+721,21,L,IPS,SMP3,1,11,Bahasa Indonesia,Izin,78,Beasiswa
+722,19,P,IPA,SMP3,1,10,Bahasa Inggris,Sakit,76,Beasiswa
+723,21,P,IPA,SMP3,1,12,MTK,Sakit,78,Non Beasiswa
+724,21,P,BI,SMP2,1,11,Bahasa Indonesia,Alfa,77,Beasiswa
+725,20,P,IPS,SMP1,1,11,Bahasa Inggris,Izin,75,Beasiswa
+726,19,L,BI,SMP2,1,10,Bahasa Inggris,Sakit,79,Non Beasiswa
+727,22,P,IPA,SMP3,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+728,22,L,IPS,SMP3,1,12,Bahasa Indonesia,Sakit,75,Beasiswa
+729,18,P,BI,SMP1,1,12,Bahasa Inggris,Alfa,78,Non Beasiswa
+730,20,L,BI,SMP3,1,12,MTK,Hadir,76,Non Beasiswa
+731,21,L,BI,SMP2,1,12,Bahasa Indonesia,Sakit,76,Non Beasiswa
+732,18,L,IPA,SMP3,1,10,Bahasa Indonesia,Sakit,79,Non Beasiswa
+733,20,L,IPA,SMP2,1,10,Bahasa Inggris,Hadir,75,Beasiswa
+734,20,L,IPA,SMP3,1,12,Bahasa Indonesia,Izin,76,Beasiswa
+735,21,L,IPA,SMP1,1,11,Bahasa Indonesia,Alfa,79,Beasiswa
+736,18,L,IPA,SMP1,1,10,Bahasa Indonesia,Alfa,79,Non Beasiswa
+737,19,P,BI,SMP3,1,12,MTK,Izin,79,Beasiswa
+738,19,L,BI,SMP1,1,12,MTK,Izin,75,Beasiswa
+739,22,L,IPS,SMP3,1,11,MTK,Sakit,78,Beasiswa
+740,18,P,IPS,SMP3,1,11,Bahasa Inggris,Sakit,79,Beasiswa
+741,19,L,IPA,SMP3,1,10,MTK,Sakit,78,Beasiswa
+742,21,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,76,Beasiswa
+743,22,L,IPA,SMP2,1,12,MTK,Hadir,75,Beasiswa
+744,21,L,BI,SMP1,1,10,MTK,Hadir,77,Beasiswa
+745,19,L,IPS,SMP1,1,10,MTK,Sakit,79,Non Beasiswa
+746,20,L,IPA,SMP1,1,10,Bahasa Indonesia,Sakit,76,Beasiswa
+747,19,L,IPA,SMP1,1,10,Bahasa Inggris,Alfa,75,Non Beasiswa
+748,22,P,BI,SMP1,1,12,Bahasa Inggris,Hadir,76,Non Beasiswa
+749,22,P,BI,SMP1,1,12,Bahasa Inggris,Izin,75,Non Beasiswa
+750,21,L,BI,SMP3,1,12,MTK,Hadir,75,Beasiswa
+751,19,L,BI,SMP3,1,12,MTK,Izin,77,Non Beasiswa
+752,20,P,BI,SMP2,1,10,Bahasa Inggris,Sakit,75,Beasiswa
+753,18,P,IPS,SMP2,1,10,MTK,Izin,77,Beasiswa
+754,18,P,IPS,SMP1,1,12,Bahasa Inggris,Hadir,75,Beasiswa
+755,18,L,IPA,SMP3,1,12,Bahasa Indonesia,Sakit,75,Beasiswa
+756,18,P,IPS,SMP2,1,12,Bahasa Indonesia,Sakit,75,Non Beasiswa
+757,18,P,IPS,SMP1,1,10,Bahasa Indonesia,Izin,77,Non Beasiswa
+758,20,P,IPA,SMP2,1,10,Bahasa Indonesia,Sakit,79,Beasiswa
+759,20,L,IPS,SMP1,1,12,Bahasa Inggris,Alfa,77,Beasiswa
+760,21,P,IPS,SMP1,1,12,Bahasa Inggris,Sakit,76,Non Beasiswa
+761,18,P,IPA,SMP3,1,12,MTK,Alfa,75,Beasiswa
+762,22,L,IPA,SMP3,1,11,MTK,Izin,76,Non Beasiswa
+763,19,L,IPA,SMP2,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+764,19,L,BI,SMP1,1,12,Bahasa Indonesia,Hadir,78,Beasiswa
+765,18,P,BI,SMP2,1,11,Bahasa Indonesia,Hadir,76,Non Beasiswa
+766,18,P,BI,SMP2,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+767,18,L,IPS,SMP1,1,12,Bahasa Inggris,Alfa,78,Beasiswa
+768,22,L,BI,SMP2,1,12,Bahasa Indonesia,Hadir,79,Non Beasiswa
+769,22,P,BI,SMP1,1,12,Bahasa Inggris,Alfa,75,Non Beasiswa
+770,22,L,IPA,SMP3,1,12,Bahasa Inggris,Alfa,77,Non Beasiswa
+771,19,P,IPA,SMP3,1,11,Bahasa Indonesia,Izin,77,Non Beasiswa
+772,21,P,IPS,SMP3,1,12,Bahasa Inggris,Hadir,75,Beasiswa
+773,21,L,IPA,SMP2,1,12,MTK,Sakit,76,Non Beasiswa
+774,22,P,BI,SMP2,1,10,Bahasa Indonesia,Sakit,78,Beasiswa
+775,18,P,IPS,SMP2,1,11,MTK,Sakit,75,Non Beasiswa
+776,22,P,IPS,SMP2,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+777,18,L,IPS,SMP1,1,10,Bahasa Inggris,Hadir,76,Non Beasiswa
+778,21,L,IPS,SMP3,1,11,MTK,Izin,79,Beasiswa
+779,18,P,IPA,SMP1,1,10,Bahasa Inggris,Izin,79,Beasiswa
+780,21,L,IPS,SMP2,1,11,MTK,Alfa,79,Non Beasiswa
+781,22,P,IPA,SMP3,1,10,Bahasa Indonesia,Sakit,76,Beasiswa
+782,20,P,IPS,SMP2,1,12,Bahasa Indonesia,Izin,79,Non Beasiswa
+783,21,P,IPS,SMP3,1,10,Bahasa Indonesia,Alfa,78,Non Beasiswa
+784,21,P,IPS,SMP1,1,10,Bahasa Indonesia,Hadir,76,Beasiswa
+785,21,P,BI,SMP3,1,12,MTK,Alfa,76,Beasiswa
+786,18,P,BI,SMP3,1,10,Bahasa Indonesia,Sakit,77,Non Beasiswa
+787,21,P,IPA,SMP2,1,11,MTK,Izin,77,Non Beasiswa
+788,19,P,IPA,SMP3,1,11,MTK,Sakit,79,Beasiswa
+789,19,L,BI,SMP3,1,10,MTK,Izin,76,Non Beasiswa
+790,20,P,IPA,SMP1,1,10,Bahasa Indonesia,Izin,78,Beasiswa
+791,18,L,BI,SMP3,1,10,MTK,Sakit,76,Non Beasiswa
+792,21,P,IPS,SMP1,1,10,Bahasa Inggris,Sakit,77,Beasiswa
+793,19,P,BI,SMP3,1,11,Bahasa Inggris,Hadir,79,Non Beasiswa
+794,19,P,IPA,SMP2,1,11,Bahasa Inggris,Hadir,79,Non Beasiswa
+795,18,L,IPS,SMP2,1,11,Bahasa Inggris,Alfa,77,Beasiswa
+796,21,P,IPS,SMP3,1,12,Bahasa Indonesia,Alfa,79,Beasiswa
+797,21,P,IPA,SMP2,1,11,Bahasa Inggris,Sakit,77,Beasiswa
+798,20,L,IPA,SMP3,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+799,22,P,BI,SMP3,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+800,20,L,IPA,SMP1,1,10,MTK,Hadir,77,Non Beasiswa
+801,20,P,IPA,SMP1,1,11,Bahasa Indonesia,Hadir,75,Non Beasiswa
+802,22,P,IPS,SMP2,1,11,Bahasa Inggris,Sakit,75,Beasiswa
+803,20,L,BI,SMP1,1,11,Bahasa Indonesia,Sakit,79,Beasiswa
+804,21,L,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,75,Non Beasiswa
+805,18,P,BI,SMP1,1,10,Bahasa Inggris,Sakit,75,Beasiswa
+806,20,L,BI,SMP1,1,10,Bahasa Inggris,Izin,75,Beasiswa
+807,19,L,BI,SMP2,1,10,Bahasa Inggris,Sakit,77,Beasiswa
+808,18,P,BI,SMP1,1,11,MTK,Alfa,76,Beasiswa
+809,18,P,IPA,SMP2,1,11,MTK,Sakit,79,Beasiswa
+810,21,P,BI,SMP2,1,11,Bahasa Inggris,Sakit,76,Non Beasiswa
+811,22,P,IPA,SMP3,1,11,Bahasa Indonesia,Hadir,75,Non Beasiswa
+812,20,L,BI,SMP2,1,11,MTK,Alfa,76,Beasiswa
+813,21,P,IPS,SMP2,1,12,Bahasa Indonesia,Izin,76,Non Beasiswa
+814,19,P,IPA,SMP3,1,11,Bahasa Indonesia,Alfa,79,Beasiswa
+815,18,P,IPS,SMP1,1,11,MTK,Alfa,77,Beasiswa
+816,21,P,IPS,SMP1,1,11,Bahasa Inggris,Hadir,79,Non Beasiswa
+817,21,P,IPA,SMP2,1,12,Bahasa Indonesia,Sakit,77,Non Beasiswa
+818,22,L,BI,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+819,20,L,IPA,SMP1,1,11,Bahasa Inggris,Alfa,75,Non Beasiswa
+820,21,P,IPA,SMP1,1,12,MTK,Izin,75,Non Beasiswa
+821,18,P,IPS,SMP3,1,11,Bahasa Inggris,Alfa,76,Non Beasiswa
+822,20,L,IPS,SMP1,1,11,Bahasa Inggris,Hadir,75,Non Beasiswa
+823,19,L,IPS,SMP2,1,10,Bahasa Inggris,Izin,76,Beasiswa
+824,21,P,IPA,SMP3,1,11,Bahasa Indonesia,Sakit,78,Beasiswa
+825,22,L,BI,SMP1,1,12,Bahasa Indonesia,Izin,78,Non Beasiswa
+826,21,P,BI,SMP1,1,12,Bahasa Indonesia,Alfa,77,Non Beasiswa
+827,20,L,IPA,SMP2,1,12,MTK,Sakit,77,Beasiswa
+828,22,L,BI,SMP3,1,11,MTK,Izin,75,Beasiswa
+829,20,L,IPS,SMP1,1,10,Bahasa Inggris,Alfa,77,Beasiswa
+830,18,P,BI,SMP1,1,10,Bahasa Inggris,Alfa,75,Non Beasiswa
+831,19,P,BI,SMP2,1,10,MTK,Hadir,75,Beasiswa
+832,22,P,IPA,SMP2,1,11,Bahasa Indonesia,Sakit,78,Beasiswa
+833,20,P,BI,SMP1,1,11,Bahasa Indonesia,Alfa,75,Non Beasiswa
+834,19,P,IPA,SMP1,1,10,MTK,Sakit,78,Non Beasiswa
+835,21,P,IPA,SMP3,1,10,Bahasa Inggris,Sakit,75,Non Beasiswa
+836,18,L,IPA,SMP3,1,12,MTK,Alfa,75,Non Beasiswa
+837,21,P,IPS,SMP1,1,12,Bahasa Inggris,Izin,75,Non Beasiswa
+838,22,L,IPA,SMP3,1,12,Bahasa Inggris,Hadir,77,Beasiswa
+839,19,P,IPS,SMP3,1,11,Bahasa Indonesia,Alfa,75,Beasiswa
+840,22,P,IPS,SMP2,1,11,MTK,Sakit,78,Non Beasiswa
+841,21,L,IPA,SMP2,1,11,Bahasa Inggris,Izin,78,Beasiswa
+842,21,P,IPS,SMP1,1,12,Bahasa Inggris,Alfa,77,Beasiswa
+843,22,P,BI,SMP2,1,11,Bahasa Indonesia,Sakit,75,Non Beasiswa
+844,21,L,IPS,SMP2,1,11,Bahasa Inggris,Izin,76,Beasiswa
+845,19,P,BI,SMP3,1,11,Bahasa Indonesia,Sakit,75,Non Beasiswa
+846,20,P,BI,SMP1,1,12,MTK,Izin,77,Beasiswa
+847,22,L,BI,SMP3,1,12,MTK,Hadir,78,Non Beasiswa
+848,19,L,BI,SMP1,1,12,Bahasa Inggris,Hadir,77,Non Beasiswa
+849,18,L,IPS,SMP2,1,11,MTK,Hadir,77,Beasiswa
+850,18,P,BI,SMP3,1,12,Bahasa Indonesia,Hadir,76,Non Beasiswa
+851,22,L,IPA,SMP3,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+852,20,L,IPS,SMP2,1,12,Bahasa Inggris,Alfa,79,Beasiswa
+853,21,L,IPS,SMP3,1,10,Bahasa Inggris,Hadir,79,Non Beasiswa
+854,20,P,BI,SMP2,1,12,Bahasa Indonesia,Hadir,75,Beasiswa
+855,22,L,IPA,SMP2,1,12,MTK,Izin,79,Beasiswa
+856,21,L,BI,SMP1,1,12,Bahasa Indonesia,Izin,78,Non Beasiswa
+857,22,P,BI,SMP1,1,10,MTK,Hadir,78,Non Beasiswa
+858,18,L,IPA,SMP2,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+859,21,L,IPS,SMP3,1,10,Bahasa Indonesia,Izin,75,Non Beasiswa
+860,21,P,BI,SMP1,1,12,Bahasa Indonesia,Hadir,78,Non Beasiswa
+861,21,L,BI,SMP1,1,11,Bahasa Indonesia,Alfa,75,Non Beasiswa
+862,19,P,IPA,SMP2,1,12,MTK,Sakit,75,Non Beasiswa
+863,19,L,IPS,SMP2,1,10,Bahasa Indonesia,Hadir,79,Non Beasiswa
+864,21,L,IPS,SMP1,1,10,Bahasa Indonesia,Hadir,78,Non Beasiswa
+865,19,L,IPA,SMP2,1,10,Bahasa Indonesia,Izin,78,Beasiswa
+866,19,L,IPA,SMP3,1,11,MTK,Alfa,77,Non Beasiswa
+867,21,P,IPA,SMP1,1,12,MTK,Hadir,75,Beasiswa
+868,20,P,IPS,SMP3,1,10,MTK,Izin,78,Beasiswa
+869,18,P,IPA,SMP2,1,12,Bahasa Inggris,Hadir,76,Non Beasiswa
+870,18,P,IPA,SMP3,1,12,MTK,Alfa,77,Non Beasiswa
+871,18,P,BI,SMP2,1,12,MTK,Hadir,79,Non Beasiswa
+872,21,P,BI,SMP2,1,11,Bahasa Inggris,Izin,79,Non Beasiswa
+873,18,P,IPA,SMP1,1,12,Bahasa Indonesia,Izin,77,Non Beasiswa
+874,18,L,IPS,SMP1,1,12,Bahasa Inggris,Izin,77,Non Beasiswa
+875,21,L,IPS,SMP1,1,10,Bahasa Inggris,Alfa,79,Beasiswa
+876,21,L,BI,SMP3,1,12,Bahasa Inggris,Izin,77,Non Beasiswa
+877,21,L,BI,SMP1,1,12,MTK,Izin,76,Beasiswa
+878,18,L,IPA,SMP1,1,10,Bahasa Inggris,Izin,79,Beasiswa
+879,19,L,BI,SMP3,1,12,Bahasa Inggris,Sakit,75,Non Beasiswa
+880,18,L,IPS,SMP2,1,11,Bahasa Inggris,Hadir,76,Beasiswa
+881,21,L,IPS,SMP3,1,11,Bahasa Indonesia,Hadir,76,Non Beasiswa
+882,22,P,BI,SMP1,1,10,Bahasa Inggris,Hadir,76,Beasiswa
+883,22,L,IPA,SMP3,1,12,Bahasa Indonesia,Sakit,79,Non Beasiswa
+884,22,P,BI,SMP3,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+885,22,P,BI,SMP2,1,11,Bahasa Indonesia,Alfa,76,Non Beasiswa
+886,19,L,IPA,SMP2,1,11,MTK,Alfa,76,Beasiswa
+887,19,P,IPS,SMP1,1,11,MTK,Hadir,76,Non Beasiswa
+888,19,P,IPA,SMP3,1,11,Bahasa Inggris,Izin,77,Beasiswa
+889,21,P,IPA,SMP3,1,11,MTK,Alfa,75,Beasiswa
+890,19,P,IPA,SMP2,1,10,MTK,Izin,77,Beasiswa
+891,18,L,BI,SMP1,1,12,MTK,Alfa,76,Non Beasiswa
+892,20,P,IPS,SMP1,1,12,MTK,Sakit,77,Beasiswa
+893,20,L,IPA,SMP1,1,10,Bahasa Inggris,Alfa,78,Non Beasiswa
+894,18,P,IPA,SMP3,1,12,Bahasa Inggris,Hadir,79,Beasiswa
+895,18,L,IPA,SMP2,1,10,Bahasa Indonesia,Sakit,79,Beasiswa
+896,19,L,BI,SMP1,1,12,MTK,Hadir,78,Non Beasiswa
+897,20,P,IPS,SMP3,1,12,Bahasa Indonesia,Hadir,79,Non Beasiswa
+898,20,P,IPA,SMP3,1,12,MTK,Alfa,77,Non Beasiswa
+899,18,L,IPS,SMP1,1,11,Bahasa Indonesia,Hadir,77,Beasiswa
+900,22,L,BI,SMP3,1,10,MTK,Sakit,79,Beasiswa
+901,21,P,IPA,SMP2,1,11,Bahasa Indonesia,Alfa,79,Non Beasiswa
+902,20,L,IPS,SMP3,1,12,Bahasa Inggris,Alfa,76,Beasiswa
+903,20,L,IPA,SMP2,1,12,MTK,Izin,76,Beasiswa
+904,19,L,BI,SMP1,1,11,Bahasa Indonesia,Sakit,79,Non Beasiswa
+905,20,P,BI,SMP2,1,10,Bahasa Indonesia,Sakit,76,Beasiswa
+906,19,L,BI,SMP1,1,11,MTK,Sakit,78,Beasiswa
+907,20,L,IPA,SMP3,1,12,Bahasa Inggris,Izin,76,Non Beasiswa
+908,21,L,BI,SMP3,1,10,Bahasa Indonesia,Alfa,78,Non Beasiswa
+909,18,P,IPS,SMP2,1,11,Bahasa Inggris,Alfa,79,Non Beasiswa
+910,19,L,IPA,SMP1,1,12,Bahasa Indonesia,Izin,75,Non Beasiswa
+911,18,L,IPA,SMP2,1,12,Bahasa Inggris,Hadir,75,Non Beasiswa
+912,19,P,BI,SMP3,1,12,Bahasa Indonesia,Hadir,78,Beasiswa
+913,19,P,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,76,Beasiswa
+914,21,P,IPA,SMP2,1,11,MTK,Sakit,79,Non Beasiswa
+915,21,L,IPA,SMP2,1,11,Bahasa Indonesia,Izin,78,Beasiswa
+916,20,L,IPA,SMP3,1,11,Bahasa Indonesia,Izin,75,Beasiswa
+917,18,P,BI,SMP1,1,12,MTK,Sakit,75,Non Beasiswa
+918,22,L,BI,SMP1,1,12,Bahasa Inggris,Sakit,78,Non Beasiswa
+919,18,L,BI,SMP3,1,10,Bahasa Indonesia,Izin,76,Non Beasiswa
+920,18,P,BI,SMP1,1,11,Bahasa Inggris,Alfa,78,Non Beasiswa
+921,19,P,IPA,SMP1,1,11,Bahasa Inggris,Hadir,79,Non Beasiswa
+922,22,P,IPA,SMP2,1,12,Bahasa Indonesia,Hadir,78,Beasiswa
+923,18,L,IPS,SMP2,1,11,Bahasa Indonesia,Sakit,78,Non Beasiswa
+924,21,P,IPA,SMP2,1,11,MTK,Alfa,76,Non Beasiswa
+925,18,L,BI,SMP3,1,11,Bahasa Indonesia,Alfa,77,Beasiswa
+926,18,P,BI,SMP1,1,12,Bahasa Inggris,Sakit,76,Non Beasiswa
+927,21,P,BI,SMP2,1,12,Bahasa Inggris,Izin,79,Non Beasiswa
+928,18,P,BI,SMP1,1,12,Bahasa Indonesia,Hadir,78,Beasiswa
+929,20,P,IPA,SMP1,1,11,Bahasa Indonesia,Izin,75,Non Beasiswa
+930,19,P,IPA,SMP2,1,10,Bahasa Indonesia,Alfa,77,Non Beasiswa
+931,18,P,IPS,SMP3,1,12,Bahasa Inggris,Alfa,76,Non Beasiswa
+932,19,L,IPS,SMP3,1,10,Bahasa Inggris,Alfa,76,Non Beasiswa
+933,19,L,IPA,SMP2,1,10,MTK,Alfa,77,Non Beasiswa
+934,18,P,BI,SMP2,1,10,MTK,Izin,78,Beasiswa
+935,18,L,IPS,SMP1,1,10,MTK,Izin,75,Beasiswa
+936,18,L,IPS,SMP3,1,10,MTK,Hadir,76,Non Beasiswa
+937,21,L,IPA,SMP3,1,12,Bahasa Inggris,Hadir,75,Beasiswa
+938,19,P,IPS,SMP2,1,12,MTK,Sakit,79,Non Beasiswa
+939,20,L,IPS,SMP2,1,11,MTK,Alfa,76,Non Beasiswa
+940,21,P,IPS,SMP1,1,11,Bahasa Indonesia,Izin,77,Non Beasiswa
+941,18,L,IPS,SMP2,1,12,MTK,Hadir,79,Non Beasiswa
+942,21,P,IPA,SMP3,1,10,Bahasa Indonesia,Alfa,75,Non Beasiswa
+943,20,P,IPA,SMP2,1,12,MTK,Hadir,76,Beasiswa
+944,18,L,BI,SMP1,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+945,21,P,IPS,SMP3,1,11,MTK,Izin,79,Beasiswa
+946,20,P,BI,SMP1,1,10,MTK,Sakit,79,Non Beasiswa
+947,22,L,BI,SMP1,1,12,MTK,Sakit,76,Beasiswa
+948,20,P,IPS,SMP2,1,12,Bahasa Indonesia,Hadir,79,Non Beasiswa
+949,22,P,BI,SMP2,1,12,MTK,Izin,75,Non Beasiswa
+950,21,P,IPA,SMP3,1,10,Bahasa Indonesia,Hadir,78,Non Beasiswa
+951,19,L,BI,SMP2,1,10,Bahasa Indonesia,Sakit,79,Non Beasiswa
+952,20,L,IPA,SMP1,1,12,MTK,Hadir,79,Non Beasiswa
+953,21,P,IPS,SMP1,1,11,Bahasa Indonesia,Sakit,79,Beasiswa
+954,22,P,BI,SMP1,1,10,Bahasa Inggris,Sakit,77,Non Beasiswa
+955,20,P,IPS,SMP3,1,11,Bahasa Inggris,Hadir,77,Beasiswa
+956,22,P,BI,SMP2,1,12,MTK,Alfa,77,Non Beasiswa
+957,21,P,BI,SMP3,1,12,MTK,Hadir,78,Beasiswa
+958,21,P,IPA,SMP2,1,10,MTK,Alfa,75,Non Beasiswa
+959,20,L,BI,SMP2,1,12,Bahasa Inggris,Alfa,76,Beasiswa
+960,21,L,IPS,SMP1,1,10,Bahasa Indonesia,Hadir,75,Beasiswa
+961,21,P,BI,SMP3,1,11,MTK,Sakit,79,Beasiswa
+962,19,P,IPS,SMP3,1,10,MTK,Hadir,76,Beasiswa
+963,21,P,BI,SMP3,1,12,Bahasa Inggris,Sakit,76,Non Beasiswa
+964,22,L,IPA,SMP1,1,10,Bahasa Inggris,Izin,75,Beasiswa
+965,20,P,IPA,SMP1,1,11,MTK,Izin,79,Non Beasiswa
+966,21,L,BI,SMP2,1,11,Bahasa Inggris,Izin,79,Beasiswa
+967,20,P,IPA,SMP3,1,12,MTK,Alfa,76,Beasiswa
+968,20,P,BI,SMP2,1,10,Bahasa Inggris,Sakit,75,Beasiswa
+969,22,P,IPA,SMP2,1,11,MTK,Izin,75,Beasiswa
+970,22,L,BI,SMP3,1,10,MTK,Alfa,78,Non Beasiswa
+971,22,P,BI,SMP1,1,12,Bahasa Inggris,Alfa,76,Beasiswa
+972,18,P,BI,SMP3,1,12,Bahasa Indonesia,Sakit,79,Beasiswa
+973,19,L,IPS,SMP1,1,11,Bahasa Indonesia,Sakit,77,Beasiswa
+974,18,P,IPS,SMP1,1,11,Bahasa Indonesia,Alfa,77,Beasiswa
+975,20,L,BI,SMP1,1,12,Bahasa Indonesia,Izin,79,Non Beasiswa
+976,21,P,IPA,SMP2,1,11,Bahasa Inggris,Izin,75,Beasiswa
+977,19,L,BI,SMP1,1,11,MTK,Alfa,79,Beasiswa
+978,19,P,BI,SMP3,1,10,Bahasa Indonesia,Alfa,77,Beasiswa
+979,20,P,IPS,SMP3,1,12,Bahasa Indonesia,Izin,79,Beasiswa
+980,18,P,IPS,SMP1,1,12,Bahasa Indonesia,Hadir,77,Beasiswa
+981,22,P,BI,SMP3,1,11,Bahasa Inggris,Izin,75,Beasiswa
+982,21,P,BI,SMP2,1,10,Bahasa Inggris,Izin,77,Non Beasiswa
+983,22,P,IPS,SMP2,1,10,Bahasa Inggris,Sakit,76,Beasiswa
+984,18,P,BI,SMP2,1,11,Bahasa Inggris,Sakit,76,Beasiswa
+985,19,P,IPA,SMP3,1,11,Bahasa Indonesia,Sakit,76,Non Beasiswa
+986,19,L,BI,SMP2,1,10,MTK,Izin,75,Non Beasiswa
+987,21,P,IPA,SMP3,1,12,Bahasa Inggris,Izin,76,Beasiswa
+988,20,L,IPS,SMP1,1,10,Bahasa Indonesia,Izin,75,Non Beasiswa
+989,22,L,IPS,SMP3,1,11,MTK,Sakit,77,Beasiswa
+990,18,L,IPS,SMP1,1,11,Bahasa Inggris,Alfa,78,Beasiswa
+991,19,P,BI,SMP1,1,10,Bahasa Inggris,Izin,77,Non Beasiswa
+992,21,P,IPS,SMP1,1,10,Bahasa Indonesia,Sakit,78,Non Beasiswa
+993,21,L,BI,SMP1,1,12,MTK,Hadir,76,Beasiswa
+994,22,P,BI,SMP1,1,11,Bahasa Inggris,Hadir,76,Non Beasiswa
+995,18,P,IPS,SMP2,1,10,Bahasa Inggris,Alfa,75,Beasiswa
+996,18,L,IPS,SMP1,1,11,Bahasa Indonesia,Izin,75,Non Beasiswa
+997,18,L,IPA,SMP1,1,11,Bahasa Indonesia,Alfa,77,Non Beasiswa
+998,22,P,IPS,SMP3,1,11,Bahasa Indonesia,Hadir,78,Beasiswa
+999,21,P,IPA,SMP3,1,10,Bahasa Inggris,Sakit,79,Beasiswa
